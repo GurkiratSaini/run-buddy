@@ -200,6 +200,10 @@ section {
     margin-right: 20px;
 }
 
+.step-img {
+    max-width: 100%;
+}
+
 .step-text {
     flex: 12;
 }
